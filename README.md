@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhaoliang-zhou
 - 👀 I’m interested in movies, music, guitar, video games, and statistics! 
-- 🌱 I’m currently a Statistics Master student at the University of Minnesota - Twin Cities
-- 📫 How to reach me ... zhou1561@umn.edu
+- 🌱 I’m currently a Biostatistics PhD student at the University of Illinois - Chicago
+- 📫 How to reach me ... zz81@uic.edu
 
 <!---
 zhaoliang-zhou/zhaoliang-zhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
