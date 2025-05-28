@@ -1,3 +1,17 @@
+<div align="center">
+
+  <!-- Knock Code Pictures -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty -->
+  <div>&nbsp;</div>
+<!-- Welcome words -->
+<h1 style="color: #FFA500;">Welcome to Leon's GitHub ! 🍀</h1>
+
 - 👋 Hi, I’m @zhaoliang-zhou
 - 👀 I’m interested in movies, music, guitar, video games, and statistics! 
 - 🌱 I’m currently a Biostatistics PhD candidate at the University of Illinois - Chicago
