@@ -12,11 +12,11 @@
 <!-- Welcome words -->
 <h1 style="color: #FFA500;">Welcome to Leon's GitHub ! 🍀</h1>
 
- 👋 Hi, I’m @zhaoliang-zhou
+ 👋 Hi, I’m @zhaoliang-zhou <br>
  
- 👀 I’m interested in movies/TV shows, music, guitar, video games, and statistics! 
+ 👀 I’m interested in movies/TV shows, music, guitar, video games, and statistics! <br>
  
- 🌱 I’m currently a Biostatistics PhD candidate at the University of Illinois - Chicago (UIC)
+ 🌱 I’m currently a Biostatistics PhD candidate at the University of Illinois - Chicago (UIC) <br>
  
  📫 How to reach me ... zz81@uic.edu
 
