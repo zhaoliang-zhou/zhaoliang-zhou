@@ -12,6 +12,9 @@
 <!-- Welcome words -->
 <h1 style="color: #FFA500;">Welcome to Leon's GitHub ! 🍀</h1>
 
+<!-- Skills Emoji -->
+[![My Skills](https://skillicons.dev/icons?i=r,py,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda&theme=dark&perline=7)](https://skillicons.dev)
+
  👋 Hi, I’m @zhaoliang-zhou <br>
  
  👀 I’m interested in movies/TV shows, music, guitar, video games, and statistics! <br>
