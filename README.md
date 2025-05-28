@@ -13,7 +13,7 @@
 <h1 style="color: #FFA500;">Welcome to Leon's GitHub ! 🍀</h1>
 
 <!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=r,py,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,pytorch,tensorflow,sklearn,stackoverflow,matlab,wordpress,latex,notion,github,visualstudio,vscode,pycharm,anaconda&theme=dark&perline=7)](https://skillicons.dev)
 
  👋 Hi, I’m @zhaoliang-zhou <br>
  
