@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhaoliang-zhou
 - 👀 I’m interested in movies, music, guitar, video games, and statistics! 
-- 🌱 I’m currently a Biostatistics PhD student at the University of Illinois - Chicago
+- 🌱 I’m currently a Biostatistics PhD candidate at the University of Illinois - Chicago
 - 📫 How to reach me ... zz81@uic.edu
 
 <!---
