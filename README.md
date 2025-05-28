@@ -12,10 +12,10 @@
 <!-- Welcome words -->
 <h1 style="color: #FFA500;">Welcome to Leon's GitHub ! 🍀</h1>
 
-- 👋 Hi, I’m @zhaoliang-zhou
-- 👀 I’m interested in movies, music, guitar, video games, and statistics! 
-- 🌱 I’m currently a Biostatistics PhD candidate at the University of Illinois - Chicago
-- 📫 How to reach me ... zz81@uic.edu
+ 👋 Hi, I’m @zhaoliang-zhou
+ 👀 I’m interested in movies/TV shows, music, guitar, video games, and statistics! 
+ 🌱 I’m currently a Biostatistics PhD candidate at the University of Illinois - Chicago (UIC)
+ 📫 How to reach me ... zz81@uic.edu
 
 <!---
 zhaoliang-zhou/zhaoliang-zhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
